@@ -4,7 +4,7 @@
 
 #define DHTPIN 15     
 
-/
+
 #define DHTTYPE DHT11   
 
 DHT dht(DHTPIN, DHTTYPE);
